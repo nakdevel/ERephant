@@ -7,7 +7,7 @@ if __name__ == '__main__':
     appLabel = QLabel()
     appLabel.setText("Hello, World\n Look at my first app PySide")
     appLabel.setAlignment(Qt.AlignCenter)
-    appLabel.setWindowTitle("My first App")
+    appLabel.setWindowTitle("Testing my first App")
     appLabel.setGeometry(300, 300, 250, 175)
     
     appLabel.show()
